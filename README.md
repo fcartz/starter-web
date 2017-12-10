@@ -13,5 +13,6 @@ Purpose info
 
 ## How To Contribute 
 
-don't
+don'to
 
+#Copyright
