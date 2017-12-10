@@ -13,6 +13,6 @@ Purpose info
 
 ## How To Contribute 
 
-don'to
+get working
 
 #Copyright
